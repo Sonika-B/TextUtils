@@ -2,9 +2,9 @@
 This project is a fully responsive website that supports both dark and light modes. It includes a text manipulation feature allowing users to convert text into uppercase or lowercase and remove extra spaces.
 
 ## Features
-**Responsive Design:** The website is optimized for various screen sizes and devices.
-**Dark and Light Modes:** Users can switch between dark and light color themes for comfortable viewing.
-**Text Manipulation:** Utilize the text manipulation feature to modify text formatting, including converting to uppercase or lowercase and removing extra spaces.
+- **Responsive Design:** The website is optimized for various screen sizes and devices.
+- **Dark and Light Modes:** Users can switch between dark and light color themes for comfortable viewing.
+- **Text Manipulation:** Utilize the text manipulation feature to modify text formatting, including converting to uppercase or lowercase and removing extra spaces.
 
 ## Technologies Used
 - HTML
